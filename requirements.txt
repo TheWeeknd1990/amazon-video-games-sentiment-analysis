@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+datasets
+pyarrow
+tqdm
+python-dateutil>=2.8.2,<3
